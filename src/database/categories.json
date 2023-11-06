@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/a69b5aea-c5a8-11ea-9f48-2e3b484a03e4_0b2c3eb5_ae95_4bff_9144_7f7c93ea74f9.jpg-md?w=300",
+      "title": "Бургер",
+      "description": "118 заведений"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/53129366-c5a8-11ea-8a78-822e244794a0_52b897cd_ac18_4cb5_9921_2653f1d38650.jpg-md?w=300",
+      "title": "Пицца",
+      "description": "57 заведений"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/fd1d18e0-c5a8-11ea-8a78-822e244794a0_a1852dc9_4afb_4877_9659_793adcb0f87b.jpg-md?w=300",
+      "title": "Салаты",
+      "description": "75 заведений"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/7f77b0a2-c5a9-11ea-b72a-c2fc8785833c_57601b6c_2bf1_4240_a6d0_da0d7dca0517.jpg-md?w=300",
+      "title": "Супы",
+      "description": "84 заведений"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/2d24d3ee-c5b2-11ea-a452-2e3b484a03e4_331daa86_a0e3_45da_bd06_05f8a6df06f3.jpg-md?w=300",
+      "title": "Завтрак",
+      "description": "39 заведений"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/90afac70-c5af-11ea-8a78-822e244794a0_7e31d123_8ff4_4211_9f17_88ae65a175bd.jpg-md?w=300",
+      "title": "Десерты",
+      "description": "102 заведения"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/f81ce6f6-edb0-11ea-9484-8ee68693b22d_5c5db254_8612_4c38_9045_9fe65b76a51f.jpg-md?w=300",
+      "title": "Восточная",
+      "description": "48 заведений"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/4b29c514-c5af-11ea-9f48-2e3b484a03e4_79c34f68_00f6_4f6f_8f07_7fb624561638.jpg-md?w=300",
+      "title": "Паста",
+      "description": "56 заведений"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/fe4c3f8a-c5a7-11ea-a452-2e3b484a03e4_e756ebaf_aa52_41ef_8256_31f6d788b8e2.jpg-md?w=300",
+      "title": "Суши",
+      "description": "32 заведения"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/f4af6112-c5ae-11ea-a1b0-c287d2abdf0c_aab191cd_762d_43f5_80a2_6fc17f10ff9a.jpg-md?w=300",
+      "title": "Кафе",
+      "description": "100 заведений"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/8469121c-cb98-11ec-aea3-6e751d6aff91_87f42415_c563_4359_a7bb_f31d7c8f6378.png-md?w=300",
+      "title": "Донер",
+      "description": "53 заведения"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://imageproxy.wolt.com/wolt-frontpage-images/categories/1093c864-c5af-11ea-a1b0-c287d2abdf0c_f5eebede_7252_4ec8_8e13_3fa12d8e7eac.jpg-md?w=300",
+      "title": "Стрит-фуд",
+      "description": "24 заведения"
+    }
+  ]
+}

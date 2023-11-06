@@ -1,0 +1,46 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "imageUrl": "https://imageproxy.wolt.com/venue/64363cc85d0545fa29728024/17e16330-d8f1-11ed-a808-c2e28b39bb13_c7623e64_ca90_11ea_a9dd_86477db2882a_dsc_5131.jpg?w=600",
+      "title": "Coffee Original Gogol",
+      "description": "Кофейня Coffee Original - больше чем кофе",
+      "time": "20-30 мин"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://imageproxy.wolt.com/venue/63bffdb58e8f8b52b2fb8cc5/d7064f36-9568-11ed-8dde-5ebfb5d56467_img_7088_copy.jpg?w=600",
+      "title": "Донер на Сатпаева",
+      "description": "Вкуснейший донер",
+      "time": "30-45 мин"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://imageproxy.wolt.com/venue/609e0eeb65fc73017ff6011c/034161f6-3a75-11ee-927a-3ea04c023710_plov_v_korobochkee.jpg?w=600",
+      "title": "Плов в коробочке",
+      "description": "Просто! Быстро! Вкусно!",
+      "time": "20-25 мин"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://imageproxy.wolt.com/venue/6451ea06d43d794827cfe12b/b7f90bfa-ea3c-11ed-bf5e-52b584e9d3a7_d449e978_a5dc_11ec_a8bb_16b46d3abb83_p1209499.jpg?w=600",
+      "title": "Chicken express",
+      "description": "Быстро, вкусно, доступно!",
+      "time": ""
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://imageproxy.wolt.com/venue/643fe726182b830f525a2b95/d0c83bb4-e006-11ed-9929-de48d8f2f66e_img_1936.jpg?w=600",
+      "title": "Алматы Донер",
+      "description": "Самый вкусный алматинский донер",
+      "time": "15-30 мин"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://imageproxy.wolt.com/venue/64ae4bcce000e5dadafd793e/8d220a20-207f-11ee-86d4-5af61f840ff8_c4bfeb63_ad99_40b5_96fc_67ecf3d1b3b6?w=600",
+      "title": "Gippo",
+      "description": "Gippo - это вкусная и качественная еда",
+      "time": ""
+    }
+  ]
+}

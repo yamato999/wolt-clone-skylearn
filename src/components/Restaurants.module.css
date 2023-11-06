@@ -1,0 +1,19 @@
+.restaurants {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.card-container {
+  width: 32.33%; /* 3 карточки в ряду (по 33.33%) */
+  box-sizing: border-box; /* Учесть ширины, отступы и границы */
+  padding: 10px; /* Настройте отступы между карточками, если необходимо */
+}
+
+.textHeader {
+  font-weight: 700;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  margin-top: 1.5rem;
+  margin-left: 1rem;
+}

@@ -1,0 +1,20 @@
+.footerContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(32, 33, 37, 1);
+  color: white;
+  font-size: 1rem;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+.footerContainer img {
+  max-width: 200px;
+  margin-top: 12px;
+}
+
+.footerContainerDownload {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

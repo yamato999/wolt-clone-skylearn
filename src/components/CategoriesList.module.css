@@ -1,0 +1,24 @@
+.categoriesContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.categoriesHeader {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px 1rem;
+}
+
+.categoriesHeader h3 {
+  align-self: flex-start;
+  margin-right: auto;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+}
+
+.categoriesIcons {
+  display: flex;
+  gap: 0.6rem;
+}

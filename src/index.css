@@ -1,5 +1,5 @@
-:root{
-  --color1: 009DE0
-  --color2: 202125
-  --color3: 202125A3
+body {
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
 }
