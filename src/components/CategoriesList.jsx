@@ -7,15 +7,24 @@ import { GrLinkPrevious } from "react-icons/gr";
 export default function CategoriesList() {
   const [start, setStart] = useState(0);
   const countOfCategories = 6;
+
   const displayedCategories = categoriesData.categories.slice(
     start,
     start + countOfCategories
   );
   const handleNext = () => {
-    setStart(start + countOfCategories);
+    if (start < 6) {
+      setStart(start + countOfCategories);
+    } else {
+      setStart(0);
+    }
   };
   const handlePrev = () => {
-    setStart(start - countOfCategories);
+    if (start >= 6) {
+      setStart(start - countOfCategories);
+    } else {
+      setStart(6);
+    }
   };
   return (
     <>
