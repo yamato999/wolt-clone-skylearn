@@ -2,12 +2,14 @@
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
+  margin-bottom: 2rem;
+  text-decoration: none;
 }
 
 .card-container {
-  width: 32.33%; /* 3 карточки в ряду (по 33.33%) */
-  box-sizing: border-box; /* Учесть ширины, отступы и границы */
-  padding: 10px; /* Настройте отступы между карточками, если необходимо */
+  width: 32.33%;
+  box-sizing: border-box;
+  padding: 10px;
 }
 
 .textHeader {
@@ -16,4 +18,9 @@
   margin-bottom: 0.5rem;
   margin-top: 1.5rem;
   margin-left: 1rem;
+}
+
+.customLink {
+  text-decoration: none;
+  color: inherit;
 }

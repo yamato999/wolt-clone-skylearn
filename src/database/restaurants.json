@@ -5,42 +5,270 @@
       "imageUrl": "https://imageproxy.wolt.com/venue/64363cc85d0545fa29728024/17e16330-d8f1-11ed-a808-c2e28b39bb13_c7623e64_ca90_11ea_a9dd_86477db2882a_dsc_5131.jpg?w=600",
       "title": "Coffee Original Gogol",
       "description": "Кофейня Coffee Original - больше чем кофе",
-      "time": "20-30 мин"
+      "time": "20-30 мин",
+      "menu": {
+        "coffee": [
+          {
+            "name": "Капучино",
+            "description": "Ароматный капучино",
+            "price": 350
+          },
+          {
+            "name": "Латте",
+            "description": "Нежное латте",
+            "price": 320
+          },
+          {
+            "name": "Эспрессо",
+            "description": "Крепкий эспрессо",
+            "price": 300
+          },
+          {
+            "name": "Американо",
+            "description": "Кофе американо",
+            "price": 320
+          },
+          {
+            "name": "Мокка",
+            "description": "Мокка с шоколадом",
+            "price": 380
+          }
+        ],
+        "breakfast": [
+          {
+            "name": "Омлет с овощами",
+            "description": "Сытный омлет с свежими овощами",
+            "price": 450
+          },
+          {
+            "name": "Французские булки",
+            "description": "Ароматные французские булки",
+            "price": 350
+          },
+          {
+            "name": "Гранола",
+            "description": "Полезная гранола с йогуртом",
+            "price": 380
+          },
+          {
+            "name": "Сэндвич с яйцом",
+            "description": "Сэндвич с жареным яйцом",
+            "price": 420
+          },
+          {
+            "name": "Панкейки",
+            "description": "Пушистые панкейки с кленовым сиропом",
+            "price": 480
+          }
+        ]
+      }
     },
     {
       "id": 2,
       "imageUrl": "https://imageproxy.wolt.com/venue/63bffdb58e8f8b52b2fb8cc5/d7064f36-9568-11ed-8dde-5ebfb5d56467_img_7088_copy.jpg?w=600",
       "title": "Донер на Сатпаева",
       "description": "Вкуснейший донер",
-      "time": "30-45 мин"
+      "time": "30-45 мин",
+      "menu": {
+        "doner": [
+          {
+            "name": "Классический донер",
+            "description": "Пикантный донер с мясом",
+            "price": 600
+          },
+          {
+            "name": "Донер с курицей",
+            "description": "Донер с нежным куринцем",
+            "price": 550
+          },
+          {
+            "name": "Донер с бараниной",
+            "description": "Донер с ароматной бараниной",
+            "price": 700
+          },
+          {
+            "name": "Донер в лаваше",
+            "description": "Лавашный донер с овощами",
+            "price": 550
+          },
+          {
+            "name": "Донер с фалафелем",
+            "description": "Вегетарианский донер с фалафелем",
+            "price": 480
+          }
+        ]
+      }
     },
     {
       "id": 3,
       "imageUrl": "https://imageproxy.wolt.com/venue/609e0eeb65fc73017ff6011c/034161f6-3a75-11ee-927a-3ea04c023710_plov_v_korobochkee.jpg?w=600",
       "title": "Плов в коробочке",
       "description": "Просто! Быстро! Вкусно!",
-      "time": "20-25 мин"
+      "time": "20-25 мин",
+      "menu": {
+        "rice": [
+          {
+            "name": "Плов с бараниной",
+            "description": "Ароматный плов с мясом баранины",
+            "price": 700
+          },
+          {
+            "name": "Овощной плов",
+            "description": "Плов с свежими овощами",
+            "price": 500
+          },
+          {
+            "name": "Плов с курицей",
+            "description": "Плов с нежным куринцем",
+            "price": 600
+          },
+          {
+            "name": "Плов с грибами",
+            "description": "Плов с ароматными грибами",
+            "price": 550
+          },
+          {
+            "name": "Плов по-узбекски",
+            "description": "Традиционный плов по-узбекски",
+            "price": 650
+          }
+        ]
+      }
     },
     {
       "id": 4,
       "imageUrl": "https://imageproxy.wolt.com/venue/6451ea06d43d794827cfe12b/b7f90bfa-ea3c-11ed-bf5e-52b584e9d3a7_d449e978_a5dc_11ec_a8bb_16b46d3abb83_p1209499.jpg?w=600",
       "title": "Chicken express",
       "description": "Быстро, вкусно, доступно!",
-      "time": ""
+      "time": "",
+      "menu": {
+        "chicken": [
+          {
+            "name": "Жареные крылья",
+            "description": "Пикантные крылья",
+            "price": 400
+          },
+          {
+            "name": "Курица в соусе",
+            "description": "Куриное мясо в ароматном соусе",
+            "price": 450
+          },
+          {
+            "name": "Курица с картофельным пюре",
+            "description": "Куриное мясо с пюре",
+            "price": 500
+          },
+          {
+            "name": "Курица в кляре",
+            "description": "Куриное мясо в хрустящем кляре",
+            "price": 420
+          },
+          {
+            "name": "Курица с овощами",
+            "description": "Куриное мясо с овощами",
+            "price": 480
+          }
+        ]
+      }
     },
     {
       "id": 5,
       "imageUrl": "https://imageproxy.wolt.com/venue/643fe726182b830f525a2b95/d0c83bb4-e006-11ed-9929-de48d8f2f66e_img_1936.jpg?w=600",
       "title": "Алматы Донер",
       "description": "Самый вкусный алматинский донер",
-      "time": "15-30 мин"
+      "time": "15-30 мин",
+      "menu": {
+        "doner": [
+          {
+            "name": "Донер по-алматински",
+            "description": "Традиционный алматинский донер",
+            "price": 550
+          },
+          {
+            "name": "Алматинский донер с курицей",
+            "description": "Донер с куринцем и специями",
+            "price": 600
+          },
+          {
+            "name": "Донер с овощами",
+            "description": "Вегетарианский донер с овощами",
+            "price": 480
+          },
+          {
+            "name": "Донер с говядиной",
+            "description": "Донер с нежной говядиной",
+            "price": 650
+          },
+          {
+            "name": "Алматинский фалафель",
+            "description": "Фалафель в лаваше",
+            "price": 550
+          }
+        ]
+      }
     },
     {
       "id": 6,
       "imageUrl": "https://imageproxy.wolt.com/venue/64ae4bcce000e5dadafd793e/8d220a20-207f-11ee-86d4-5af61f840ff8_c4bfeb63_ad99_40b5_96fc_67ecf3d1b3b6?w=600",
       "title": "Gippo",
       "description": "Gippo - это вкусная и качественная еда",
-      "time": ""
+      "time": "",
+      "menu": {
+        "pizza": [
+          {
+            "name": "Пепперони пицца",
+            "description": "Пицца с пепперони",
+            "price": 650
+          },
+          {
+            "name": "Вегетарианская пицца",
+            "description": "Пицца с овощами",
+            "price": 600
+          },
+          {
+            "name": "Грибная пицца",
+            "description": "Пицца с ароматными грибами",
+            "price": 700
+          },
+          {
+            "name": "Маргарита",
+            "description": "Классическая маргарита",
+            "price": 580
+          },
+          {
+            "name": "Четыре сыра",
+            "description": "Пицца с четырьмя видами сыра",
+            "price": 750
+          }
+        ],
+        "burger": [
+          {
+            "name": "Чизбургер",
+            "description": "Бургер с сыром и говядиной",
+            "price": 550
+          },
+          {
+            "name": "Биг Мак",
+            "description": "Культовый бургер",
+            "price": 600
+          },
+          {
+            "name": "Вегетарианский бургер",
+            "description": "Бургер с овощами и фалафелем",
+            "price": 480
+          },
+          {
+            "name": "Бургер с беконом",
+            "description": "Бургер с хрустящим беконом",
+            "price": 650
+          },
+          {
+            "name": "Бургер с курицей",
+            "description": "Бургер с нежной куринцем",
+            "price": 550
+          }
+        ]
+      }
     }
   ]
 }

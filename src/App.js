@@ -1,17 +1,15 @@
-import "./App.css";
-import CategoriesList from "./components/CategoriesList";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import Restaurants from "./components/Restaurants";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from "./pages/Home";
+import Restaurant from "./pages/Restaurant";
 
 function App() {
   return (
-    <>
-      <Header />
-      <CategoriesList />
-      <Restaurants />
-      <Footer />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/restaurant/:restaurantId" element={<Restaurant />} />
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
