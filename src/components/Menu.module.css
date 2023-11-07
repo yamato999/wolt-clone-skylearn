@@ -1,0 +1,29 @@
+.dishCard {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  display: flex;
+  width: 430px;
+
+  border-radius: 8px;
+  overflow: hidden;
+}
+.price {
+  color: rgb(0, 157, 224);
+}
+
+.dishContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 1rem;
+  margin-bottom: 100px;
+}
+.category {
+  margin: 1rem 1rem;
+}
+
+.dishCard h5 {
+  color: rgba(32, 33, 37, 0.64);
+  font-weight: 500;
+}

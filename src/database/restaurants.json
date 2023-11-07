@@ -6,6 +6,7 @@
       "title": "Coffee Original Gogol",
       "description": "Кофейня Coffee Original - больше чем кофе",
       "time": "20-30 мин",
+      "dishImageUrl": "https://imageproxy.wolt.com/menu/menu-images/64363d133c11ba5e33936049/035dd714-e74b-11ed-ba62-6ac5ee629fef_______2.jpg?w=300",
       "menu": {
         "coffee": [
           {
@@ -69,6 +70,7 @@
       "title": "Донер на Сатпаева",
       "description": "Вкуснейший донер",
       "time": "30-45 мин",
+      "dishImageUrl": "https://imageproxy.wolt.com/menu/menu-images/5e8f4db261f2c2816bb815f1/bb84ae48-0697-11ed-9a9b-4e3ba299c58e_____________.jpeg?w=300",
       "menu": {
         "doner": [
           {
@@ -105,6 +107,7 @@
       "title": "Плов в коробочке",
       "description": "Просто! Быстро! Вкусно!",
       "time": "20-25 мин",
+      "dishImageUrl": "https://imageproxy.wolt.com/menu/menu-images/5ed8c0496e0230410ac5f5b4/08f42ed4-7cb1-11ee-946c-c640254d99cd_3952519c_3755_11ee_b04e_12efa7703ce2_6b2d4de2_fade_11ed_b4a6_c258da3a30d1_whatsapp_image_2023_05_24_at_22.37.43__1_.jpeg?w=300",
       "menu": {
         "rice": [
           {
@@ -141,6 +144,7 @@
       "title": "Chicken express",
       "description": "Быстро, вкусно, доступно!",
       "time": "",
+      "dishImageUrl": "https://imageproxy.wolt.com/menu/menu-images/6232fb961d2927763a6778fb/e6ce34a4-ace5-11ec-aa86-ae7c9931b318_1.jpeg?w=300",
       "menu": {
         "chicken": [
           {
@@ -177,6 +181,7 @@
       "title": "Алматы Донер",
       "description": "Самый вкусный алматинский донер",
       "time": "15-30 мин",
+      "dishImageUrl": "https://imageproxy.wolt.com/menu/menu-images/63bffe3f18e44f2eb919d73e/62f7f3c8-09c2-11ee-878f-86f3687d9b18_6b67824a_9f36_11ed_a6a5_221bde24394d_5c6a3236.jpeg?w=300",
       "menu": {
         "doner": [
           {
@@ -213,6 +218,7 @@
       "title": "Gippo",
       "description": "Gippo - это вкусная и качественная еда",
       "time": "",
+      "dishImageUrl": "https://imageproxy.wolt.com/menu/menu-images/600e6c1084f70118f6b0296b/651e4cc0-dfb1-11eb-9220-fa0cbd84e42c_big_size_________1600x1200.jpeg?w=300",
       "menu": {
         "pizza": [
           {
